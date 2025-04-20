@@ -5,7 +5,7 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '慢慢想3',
+    title: '全息玫瑰碎片',
     subtitle: '慢慢想',
     author: 'Canace',
     description: '慢慢想2',
