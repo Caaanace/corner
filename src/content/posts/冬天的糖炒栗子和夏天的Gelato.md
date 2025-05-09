@@ -3,7 +3,7 @@ title: 冬天的糖炒栗子和夏天的Gelato
 pubDate: 2025-05-09
 categories: ['Gelato in Summer']
 description: '今天阳光走在风中突然好温柔 的那些瞬间'
-slug: '2024-04-30'
+slug: '2024-05-09'
 ---
 
 准备开始一项大制作，记录下生活中那些小小的美好瞬间
