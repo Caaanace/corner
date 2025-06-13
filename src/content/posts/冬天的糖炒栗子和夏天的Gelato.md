@@ -1,5 +1,5 @@
 ---
-title：嘻嘻和不嘻嘻
+title: 嘻嘻和不嘻嘻
 pubDate: 2025-05-09
 categories: ['Gelato in Summer']
 description: '今天阳光走在风中突然好温柔 的那些瞬间'
